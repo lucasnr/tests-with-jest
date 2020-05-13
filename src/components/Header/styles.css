@@ -1,0 +1,15 @@
+.header {
+	background-color: #d44;
+	color: #fff;
+	display: flex;
+	justify-content: space-between;
+	padding: 1rem;
+}
+
+.header .header__nav ul {
+	display: flex;
+}
+
+.header .header__nav ul a {
+	padding: 0.25rem 0.75rem;
+}
