@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main renders without crashing and matches snapshot 1`] = `
+<main
+  id="main"
+>
+  <Form
+    onSubmit={[Function]}
+  />
+  <ul
+    className="cards"
+  />
+</main>
+`;

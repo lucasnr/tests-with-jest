@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header renders without crashing and matches snapshot 1`] = `
+<header
+  className="header"
+>
+  <a
+    className="header__brand"
+    href="/"
+  >
+    Nav
+  </a>
+  <nav
+    className="header__nav"
+  >
+    <ul>
+      <li>
+        <a
+          href="/"
+        >
+          Home
+        </a>
+      </li>
+      <li>
+        <a
+          href="/"
+        >
+          Profile
+        </a>
+      </li>
+      <li>
+        <a
+          href="/"
+        >
+          Clients
+        </a>
+      </li>
+    </ul>
+  </nav>
+</header>
+`;

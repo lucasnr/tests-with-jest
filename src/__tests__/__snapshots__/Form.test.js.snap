@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form renders without crashing and matches snapshot 1`] = `
+<form
+  className="form"
+  onSubmit={[Function]}
+>
+  <input
+    name="title"
+    onChange={[Function]}
+    placeholder="Enter the title"
+    required={true}
+    type="text"
+    value=""
+  />
+  <textarea
+    cols="30"
+    name="text"
+    onChange={[Function]}
+    placeholder="Enter the text"
+    required={true}
+    rows="10"
+    value=""
+  />
+  <button
+    type="submit"
+  >
+    Add new card
+  </button>
+</form>
+`;
